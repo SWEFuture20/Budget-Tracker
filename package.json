@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/SWEFuture20/Budget-Tracker/issues"
   },
-  "homepage": "https://github.com/SWEFuture20/Budget-Tracker#readme"
+  "homepage": "https://github.com/SWEFuture20/Budget-Tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18",
+    "morgan": "^1.10.0"
+  }
 }
