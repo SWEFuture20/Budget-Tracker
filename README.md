@@ -6,4 +6,8 @@ In this app, I will be displaying a budget tracker app that anyone can use to ma
  
  The technology that was used in this app were HTML, CSS, JS, MongoDB, Express, and Node.
 
+# Screenshots
+
+![Screenshot](../public/icons/Budget-Tracker.png)
+
 Enjoy the App!
