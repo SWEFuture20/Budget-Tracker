@@ -8,6 +8,6 @@ In this app, I will be displaying a budget tracker app that anyone can use to ma
 
 # Screenshots
 
-![Screenshot](../public/icons/Budget-Tracker.png)
+![Screenshot](./public/icons/Budget-Tracker.png)
 
 Enjoy the App!
