@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 const compression = require("compression");
 
 // This is the selected port that I will be using to deploy the app on
-const PORT = 5050;
+const PORT = process.env.PORT || 5050;
 
 // Created a variable that is taking the place of the express router
 const app = express();
